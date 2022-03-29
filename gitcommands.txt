@@ -3,4 +3,5 @@ git add -A=>adding files to staging medium
 git commit -m"your msg"=>adding files to local repo
 git status=>listing all untracked file
 git remote add name path=>to add remote
-git push -u name master=>push 
+git push -u name master=>push the data to github
+git branch=>check currently which branch is
