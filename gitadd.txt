@@ -1,1 +1,2 @@
 adding new data to git add
+git diff=>shows all difference made
