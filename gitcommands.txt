@@ -5,3 +5,4 @@ git status=>listing all untracked file
 git remote add name path=>to add remote
 git push -u name master=>push the data to github
 git branch=>check currently which branch is
+git checkout -b
